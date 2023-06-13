@@ -1,4 +1,4 @@
-# ruby-wasm-testom
+# ruby-wasm-test
 
 Following the steps from [the ruby.wasm example](https://github.com/ruby/ruby.wasm#quick-example-how-to-package-your-ruby-application-as-a-wasi-application) on how to pack a Ruby application as a WASI application, using the JS package it doesn't work.
 
